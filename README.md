@@ -1,4 +1,4 @@
-# Sistema de Cadastro e Gerenciamento de Produtos 📦
+# _Sistema de Cadastro e Gerenciamento de Produtos_ 📦
 
 ## Visão Geral
 Este projeto implementa um sistema de cadastro e gerenciamento de produtos e fornecedores. O sistema permite o cadastro de novos produtos, fornecedores, listagem e exclusão de produtos, e oferece uma interface de login para garantir que apenas usuários autenticados possam acessar as funcionalidades.
